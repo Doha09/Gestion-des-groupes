@@ -18,7 +18,8 @@ Recherche de groupes : Trouver un groupe par son nom.
 
 Visualisation des données : Générer un diagramme en barres pour visualiser la répartition des étudiants par groupe.
 
-
+---
+## 🎯 Diagramme des cas d'utilisation
 
 ---
 
