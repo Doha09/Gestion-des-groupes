@@ -43,6 +43,7 @@ CREATE TABLE Étudiant (
     groupe_id INT,
     FOREIGN KEY (groupe_id) REFERENCES Grpage(id) ON DELETE SET NULL
 );
+
 CREATE TABLE Cours (
     id INT PRIMARY KEY AUTO_INCREMENT,
     intitule VARCHAR(100) NOT NULL,
@@ -50,3 +51,6 @@ CREATE TABLE Cours (
     groupe_id INT,
     FOREIGN KEY (groupe_id) REFERENCES Grpage(id) ON DELETE SET NULL
 );
+---
+
+## Diagramme de cas d'utilisation:
