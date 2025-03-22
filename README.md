@@ -1,4 +1,4 @@
-# Gestion-des-groupes
+# 🎯Gestion-des-groupes
 
 Grpage est une application de gestion conçue pour les établissements éducatifs. Elle permet de gérer les groupes d'étudiants, 
 les cours associés, et les informations des étudiants de manière efficace et intuitive. L'application est développée en Java
@@ -6,7 +6,7 @@ SE avec une interface graphique basée sur Swing et utilise une base de données
 
 ---
 
-## Fonctionnalités
+## 🎯 Fonctionnalités
 
 Gestion des groupes : Ajouter, modifier et supprimer des groupes.
 
@@ -28,7 +28,7 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 ## 🎯 Diagramme des classes
 ---
 
-## Structure de la Base de Données
+## 🎯Structure de la Base de Données
 
 La base de données MySQL est composée des tables suivantes :
 
