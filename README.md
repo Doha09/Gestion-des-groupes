@@ -48,7 +48,9 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 - **jBCrypt (`bcrypt-0.4.jar`)** – Pour le hachage sécurisé des mots de passe.
 
 ---
-## 🎯Structure du projet
+## 🎯 Structure du projet
+
+```bash
 GestionGroupes/
 ├── src/
 │   ├── beans/                      # Modèles de données (Cours, Étudiant, Groupe, Utilisateur)
@@ -82,7 +84,6 @@ GestionGroupes/
 │   └── AbsoluteLayout.jar
 ├── resources/                     # Ressources diverses (images, icônes, etc.)
 └── README.md                      # Documentation du projet
-
 
 ---
 
