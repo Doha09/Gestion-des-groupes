@@ -20,6 +20,7 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 
 ---
 ## 🎯 Diagramme des cas d'utilisation
+<img width="565" alt="Image" src="https://github.com/user-attachments/assets/a44033f6-806e-46b2-b240-3ae6070ddee2" />
 
 ---
 
