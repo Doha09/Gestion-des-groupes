@@ -26,6 +26,7 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 
 ---
 ## 🎯 Diagramme des classes
+<img width="395" alt="Image" src="https://github.com/user-attachments/assets/0deec82d-b27d-4664-9982-91232cb16f5a" />
 ---
 
 ## 🎯Structure de la Base de Données
