@@ -28,6 +28,24 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 ## 🎯 Diagramme des classes
 <img width="395" alt="Image" src="https://github.com/user-attachments/assets/0deec82d-b27d-4664-9982-91232cb16f5a" />
 
+
+## 🛠️ Technologies & Bibliothèques Utilisées
+- **Java SE 8** – Langage principal de l’application.
+- **Swing** – Bibliothèque graphique Java pour concevoir les interfaces utilisateur.
+- **JDBC (Java Database Connectivity)** – Pour la communication entre Java et la base de données MySQL.
+
+### 🔷 Base de données
+- **MySQL** – Système de gestion de base de données relationnelle utilisé pour stocker les groupes, étudiants, cours, utilisateurs...
+
+### 🔷 IDE & Outils
+- **NetBeans 8.0.2** – Environnement de développement intégré (IDE) utilisé pour coder, concevoir les interfaces graphiques et gérer le projet.
+- **MagicDraw** – Utilisé pour la modélisation UML : diagrammes de cas d'utilisation, diagrammes de classes.
+- **phpMyAdmin** – Pour la gestion visuelle de la base de données MySQL.
+- **JFreeChart** – Bibliothèque pour créer des graphiques (Bar Chart pour la répartition des étudiants par groupe).
+
+### 🔷 Bibliothèques externes
+- **jBCrypt (`bcrypt-0.4.jar`)** – Pour le hachage sécurisé des mots de passe.
+
 ---
 
 ## 🎯Structure de la Base de Données
