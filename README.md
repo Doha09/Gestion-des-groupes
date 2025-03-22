@@ -30,6 +30,7 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 
 
 ## 🛠️ Technologies & Bibliothèques Utilisées
+### 🔷 Langage & Frameworks
 - **Java SE 8** – Langage principal de l’application.
 - **Swing** – Bibliothèque graphique Java pour concevoir les interfaces utilisateur.
 - **JDBC (Java Database Connectivity)** – Pour la communication entre Java et la base de données MySQL.
