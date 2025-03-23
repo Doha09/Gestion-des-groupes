@@ -31,7 +31,7 @@ Ce projet vise à fournir une solution centralisée et automatisée permettant u
 ## 🎯 Diagramme des cas d'utilisation
 <img width="565" alt="Image" src="https://github.com/user-attachments/assets/a44033f6-806e-46b2-b240-3ae6070ddee2" />
 <img width="529" alt="Image" src="https://github.com/user-attachments/assets/c25e1399-8bcb-4fb8-93ea-777511fae7c2" />
-<img width="554" alt="Image" src="https://github.com/user-attachments/assets/30417ea9-23b6-4726-8314-044423319b10" />
+<img width="556" alt="Image" src="https://github.com/user-attachments/assets/22031c3c-f39d-45ad-8c10-e48b22a33e6d" />
 
 ---
 ## 🎯 Diagramme de classe
