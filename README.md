@@ -130,7 +130,7 @@ CREATE TABLE Cours (
     FOREIGN KEY (groupe_id) REFERENCES Grpage(id) ON DELETE SET NULL
 );
 
----
 ## **_Architecture du projet_**
+
 
 
