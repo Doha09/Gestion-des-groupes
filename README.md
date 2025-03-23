@@ -26,7 +26,7 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 
 ---
 ## 🎯 Diagramme des classes
-
+<img width="368" alt="Image" src="https://github.com/user-attachments/assets/19b472b8-ef0f-4a61-b8b3-375198ed839a" />
 
 
 ## 🛠️ Technologies & Bibliothèques Utilisées
