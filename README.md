@@ -93,6 +93,43 @@ CREATE TABLE Cours (
     FOREIGN KEY (groupe_id) REFERENCES Grpage(id) ON DELETE SET NULL
 );
 ```
+## 🎯 Structure du projet
+
+```bash
+GestionGroupes/
+├── src/
+│   ├── beans/                      # Modèles de données (Cours, Étudiant, Groupe, Utilisateur)
+│   │   ├── Cours.java
+│   │   ├── Etudiant.java
+│   │   ├── Grpage.java
+│   │   └── Utilisateur.java
+│   ├── connexion/                 # Connexion à la base de données
+│   │   └── Connexion.java
+│   ├── dao/                       # Interface générique DAO
+│   │   └── IDao.java
+│   ├── gui/                       # Interfaces graphiques (Java Swing)
+│   │   ├── CoursForm.java
+│   │   ├── EtudiantForm.java
+│   │   ├── FiltrerEtudiantsParGroupe.java
+│   │   ├── GrpageForm.java
+│   │   ├── MDIApplication.java
+│   │   ├── Main.java
+│   │   └── RechercherGroupeForm.java
+│   ├── service/                   # Services pour la logique métier
+│   │   ├── CoursService.java
+│   │   ├── EtudiantService.java
+│   │   ├── GrpageService.java
+│   │   └── UtilisateurService.java
+│   └── test/                      # Classe de test
+│       └── Test.java
+├── lib/                           # Bibliothèques externes (JDBC, JCalendar, BCrypt, Absolute Layout)
+│   ├── mysql-connector-java-5.1.23-bin.jar
+│   ├── jcalendar-1.4.jar
+│   ├── jbcrypt-0.4.jar
+│   └── AbsoluteLayout.jar
+├── resources/                     # Ressources diverses (images, icônes, etc.)
+└── README.md                      # Documentation du projet
+```
 ---
 ## 🎥 Démonstration vidéo
 https://github.com/user-attachments/assets/a6485f9e-bda4-4828-9beb-62f0dc8dbab5
