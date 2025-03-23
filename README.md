@@ -63,7 +63,6 @@ Ce projet vise à fournir une solution centralisée et automatisée permettant u
 ---
 ## 🎯 Structure du projet
 
-```bash
 GestionGroupes/
 ├── src/
 │   ├── beans/                      # Modèles de données (Cours, Étudiant, Groupe, Utilisateur)
@@ -100,7 +99,7 @@ GestionGroupes/
 
 ---
 
-## 🎯Structure de la Base de Données
+## 🎯 Structure de la Base de Données
 
 La base de données MySQL est composée des tables suivantes :
 
@@ -129,8 +128,3 @@ CREATE TABLE Cours (
     groupe_id INT,
     FOREIGN KEY (groupe_id) REFERENCES Grpage(id) ON DELETE SET NULL
 );
-
-## **_Architecture du projet_**
-
-
-
