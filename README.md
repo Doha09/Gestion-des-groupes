@@ -48,6 +48,9 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 - **jBCrypt (`bcrypt-0.4.jar`)** – Pour le hachage sécurisé des mots de passe.
 
 ---
+## 🎯 Architecture du projet
+
+---
 ## 🎯 Structure du projet
 
 ```bash
