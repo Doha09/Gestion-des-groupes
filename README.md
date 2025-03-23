@@ -36,8 +36,7 @@ Ce projet vise à fournir une solution centralisée et automatisée permettant u
 ---
 ## 🎯 Diagramme de classe
 
-<img width="431" alt="Image" src="https://github.com/user-attachments/assets/20a3a1f2-30fd-4a94-927c-c69e340abea1" />
-
+<img width="421" alt="Image" src="https://github.com/user-attachments/assets/de713c64-8843-4a67-b8da-c83218d4fba5" />
 
 ## 🛠️ Technologies & Bibliothèques Utilisées
 ### 🔷 Langage & Frameworks
