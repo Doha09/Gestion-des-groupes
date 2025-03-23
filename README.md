@@ -19,6 +19,15 @@ Recherche de groupes : Trouver un groupe par son nom.
 Visualisation des données : Générer un diagramme en barres pour visualiser la répartition des étudiants par groupe.
 
 ---
+## 🎯 **Problématique**
+
+Dans de nombreuses institutions éducatives, la gestion des groupes d'étudiants devient rapidement complexe, surtout lorsqu'il y a un grand nombre d'étudiants répartis dans différents groupes et matières. Les responsables administratifs et les enseignants doivent souvent faire face à des tâches telles que l'assignation des étudiants à des groupes spécifiques, la recherche de groupes par nom, ainsi que la gestion des effectifs et des informations associées à chaque groupe.
+
+Les systèmes manuels ou non centralisés peuvent entraîner des erreurs, des incohérences et une gestion inefficace des informations liées aux groupes et aux étudiants. Ces problèmes peuvent impacter non seulement l'organisation interne mais aussi l'expérience des étudiants et le suivi de leur parcours académique.
+
+Ce projet vise à fournir une solution centralisée et automatisée permettant une gestion plus efficace des groupes d'étudiants.
+
+---
 ## 🎯 Diagramme des cas d'utilisation
 <img width="565" alt="Image" src="https://github.com/user-attachments/assets/a44033f6-806e-46b2-b240-3ae6070ddee2" />
 <img width="529" alt="Image" src="https://github.com/user-attachments/assets/c25e1399-8bcb-4fb8-93ea-777511fae7c2" />
