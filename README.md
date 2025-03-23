@@ -116,8 +116,10 @@ GestionGroupes/
 │   │   └── IDao.java
 │   ├── gui/                       # Interfaces graphiques (Java Swing)
 │   │   ├── CoursForm.java
+│   │   ├── EnvoyerCodeFrame.java
 │   │   ├── EtudiantForm.java
 │   │   ├── FiltrerEtudiantsParGroupe.java
+│   │   ├── GrapheEtudiantsParGroupe.java
 │   │   ├── GrpageForm.java
 │   │   ├── MDIApplication.java
 │   │   ├── Main.java
@@ -126,16 +128,19 @@ GestionGroupes/
 │   │   ├── CoursService.java
 │   │   ├── EtudiantService.java
 │   │   ├── GrpageService.java
+│   │   ├── MailSender.java
 │   │   └── UtilisateurService.java
 │   └── test/                      # Classe de test
 │       └── Test.java
-├── lib/                           # Bibliothèques externes (JDBC, JCalendar, BCrypt, Absolute Layout)
-│   ├── mysql-connector-java-5.1.23-bin.jar
-│   ├── jcalendar-1.4.jar
-│   ├── jbcrypt-0.4.jar
-│   └── AbsoluteLayout.jar
-├── resources/                     # Ressources diverses (images, icônes, etc.)
-└── README.md                      # Documentation du projet
+├── images/                        # Dossier pour les images
+└── Libraries/                     # Bibliothèques externes
+    ├── mysql-connector-java-5.1.23-bin.jar
+    ├── jcalendar-1.4.jar
+    ├── jbcrypt-0.4.jar
+    ├── AbsoluteLayout.jar
+    ├── javax.mail.jar
+    └── freechart-1.0.19.jar
+
 ```
 ---
 ## 🎥 Démonstration vidéo
