@@ -92,6 +92,13 @@ CREATE TABLE Cours (
     groupe_id INT,
     FOREIGN KEY (groupe_id) REFERENCES Grpage(id) ON DELETE SET NULL
 );
+CREATE TABLE Utilisateur (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    login VARCHAR(50) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    role VARCHAR(20) NOT NULL
+);
+
 ```
 ## 🎯 Structure du projet
 
