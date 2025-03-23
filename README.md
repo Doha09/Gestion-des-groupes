@@ -49,6 +49,7 @@ Visualisation des données : Générer un diagramme en barres pour visualiser la
 
 ---
 ## 🎯 Architecture du projet
+<img width="770" alt="Image" src="https://github.com/user-attachments/assets/5f88723d-5e37-48d7-916a-e3a32bf01c9f" />
 
 ---
 ## 🎯 Structure du projet
